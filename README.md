@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 About Me<br><br>Hi! I'm a student passionate about programming and technology.<br><br>- 💻 **Skills:** Python, HTML, CSS, JavaScript, Java<br>- 🌱 **Currently learning:** Web Development<br>- 🎯 **Goal:** Improve my coding skills and build useful projects.<br>- 📚 Always learning and exploring new technologies.<br><br>
+<br><br>Hi! I'm a student passionate about programming and technology.<br><br>- 💻 **Skills:** Python, HTML, CSS, JavaScript, Java<br>- 🌱 **Currently learning:** Web Development<br>- 🎯 **Goal:** Improve my coding skills and build useful projects.<br>- 📚 Always learning and exploring new technologies.<br><br>
 
 
 ## 🌐 Socials:
